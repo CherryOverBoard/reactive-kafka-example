@@ -1,0 +1,5 @@
+kafka:
+  bootstrapAddress: 0.0.0.0:9092
+  topic: reactive-test-topic
+  group-id: reactive
+  client-id: reactive

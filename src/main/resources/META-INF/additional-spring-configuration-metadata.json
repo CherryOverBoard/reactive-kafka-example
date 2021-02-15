@@ -1,0 +1,24 @@
+{
+  "properties": [
+    {
+      "name": "kafka.bootstrapAddress",
+      "type": "java.lang.String",
+      "description": "Description for kafka.client-id."
+    },
+    {
+      "name": "kafka.topic",
+      "type": "java.lang.String",
+      "description": "Description for kafka.client-id."
+    },
+    {
+      "name": "kafka.group-id",
+      "type": "java.lang.String",
+      "description": "Description for kafka.client-id."
+    },
+    {
+      "name": "kafka.client-id",
+      "type": "java.lang.String",
+      "description": "Description for kafka.client-id."
+    }
+  ]
+}
